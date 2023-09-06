@@ -1,0 +1,16 @@
+.navbar-alinhamento {
+    display: flex;
+    
+}
+
+.infos {
+
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+}
+
+button{
+    margin: 50px
+}
